@@ -1,6 +1,6 @@
 ## Hi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/leonardo-boppre-andrejczuk-334333165)](linkedin.com/in/leonardo-boppre-andrejczuk-334333165)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-boppre-andrejczuk-334333165)](https://www.linkedin.com/in/leonardo-boppre-andrejczuk-334333165)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
